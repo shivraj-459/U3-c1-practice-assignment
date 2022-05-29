@@ -1,0 +1,10 @@
+#container
+{
+    margin: auto;
+    border: 1px solid black;
+}
+
+#container>thead>tr>td
+{
+    border: 1px solid red;
+}
